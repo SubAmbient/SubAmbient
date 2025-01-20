@@ -25,10 +25,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
-
+- [**Crypts Of Eternity**](https://github.com/Quintenvddb/Crypts-of-Eternity).
 - [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
 - [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify).
-- [**MegaMarket**](https://github.com/WhatABeatifulDuwang/MegaMarket):.
 
 ## 📫 Let's Connect
 
