@@ -6,16 +6,16 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 - 🎓 I have a background in Software Development.
 - 💻 I love working with Computers.
-- 🌱 Currently, I'm learning PYTHON.
+- 🌱 Currently, I'm learning PYTHON and C++.
 - 💡 I enjoy solving problems and building innovative solutions.
 - 🎯 My goals include contributing to open-source projects and collaborating with other developers.
 - 📫 How to reach me: Quintenvddb@gmail.com
 
 ## 🛠️ Tech Stack
 
-- **Languages:** PHP, HTML, JAVASCRIPT, CSS, SCSS
+- **Languages:** PHP, HTML, JAVASCRIPT, CSS, SCSS, C#
 - **Frameworks:** Laravel
-- **Tools:** VSCode,SPCE
+- **Tools:** VSCode, VS, SPCE
 - **Databases:** SQL,SQLite
 
 ## 📈 GitHub Stats
@@ -25,6 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
+- [**Echoes Of Earth**](https://github.com/Quintenvddb/Echoes-Of-Earth)/
 - [**Crypts Of Eternity**](https://github.com/Quintenvddb/Crypts-of-Eternity).
 - [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
 - [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify).
