@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 📌 Pinned Repositories
 
 Here are some of my notable projects:
-- [**Echoes Of Earth**](https://github.com/Quintenvddb/Echoes-Of-Earth)/
+- [**Echoes Of Earth**](https://github.com/Quintenvddb/Echoes-Of-Earth).
 - [**Crypts Of Eternity**](https://github.com/Quintenvddb/Crypts-of-Eternity).
 - [**UNeedIT**](https://github.com/WhatABeatifulDuwang/UNeedIT).
 - [**Chirpify**](https://github.com/WhatABeatifulDuwang/Chirpify).
