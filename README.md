@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 - **Languages:** PHP, HTML, JAVASCRIPT, CSS, SCSS, C#
 - **Frameworks:** Laravel
-- **Tools:** VSCode, VS, SPCE
+- **Tools:** VSCode, VS, SPCE, PHPStorm, Rider
 - **Databases:** SQL,SQLite
 
 ## 📈 GitHub Stats
