@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 
 - 🎓 I have a background in Software Development.
 - 💻 I love working with Computers.
-- 🌱 Currently, I'm learning PYTHON and C++.
+- 🌱 Currently, I'm learning ASPNET Core, C#
 - 💡 I enjoy solving problems and building innovative solutions.
 - 🎯 My goals include contributing to open-source projects and collaborating with other developers.
 - 📫 How to reach me: Quintenvddb@gmail.com
