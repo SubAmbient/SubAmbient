@@ -1,4 +1,4 @@
-# Hi there, I'm Quinten! 👋
+# Hi there, I'm SubAmbient! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development, open-source projects, and continuously learning new technologies. Here’s a bit more about me and what you can find on my profile:
 
